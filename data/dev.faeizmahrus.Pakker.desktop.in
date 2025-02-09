@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=pakker
+Exec=pakker
+Icon=dev.faeizmahrus.Pakker
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

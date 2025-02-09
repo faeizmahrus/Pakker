@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=dev.faeizmahrus.Pakker
+Exec=@bindir@/pakker --gapplication-service

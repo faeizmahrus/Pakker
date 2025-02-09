@@ -1,0 +1,6 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/dev.faeizmahrus.Pakker.desktop.in
+data/dev.faeizmahrus.Pakker.metainfo.xml.in
+data/dev.faeizmahrus.Pakker.gschema.xml
+src/window.ui

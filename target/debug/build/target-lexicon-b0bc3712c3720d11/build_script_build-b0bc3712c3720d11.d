@@ -1,0 +1,8 @@
+/var/home/faeizmahrus/Projects/Pakker/target/debug/build/target-lexicon-b0bc3712c3720d11/build_script_build-b0bc3712c3720d11: /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/build.rs /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/data_model.rs /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/triple.rs /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/targets.rs
+
+/var/home/faeizmahrus/Projects/Pakker/target/debug/build/target-lexicon-b0bc3712c3720d11/build_script_build-b0bc3712c3720d11.d: /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/build.rs /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/data_model.rs /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/triple.rs /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/targets.rs
+
+/var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/build.rs:
+/var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/data_model.rs:
+/var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/triple.rs:
+/var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/targets.rs:
