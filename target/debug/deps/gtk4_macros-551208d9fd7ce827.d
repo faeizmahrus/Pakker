@@ -1,9 +1,0 @@
-/var/home/faeizmahrus/Projects/Pakker/target/debug/deps/libgtk4_macros-551208d9fd7ce827.so: /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk4-macros-0.9.5/src/lib.rs /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk4-macros-0.9.5/src/attribute_parser.rs /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk4-macros-0.9.5/src/composite_template_derive.rs /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk4-macros-0.9.5/src/template_callbacks_attribute.rs /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk4-macros-0.9.5/src/util.rs
-
-/var/home/faeizmahrus/Projects/Pakker/target/debug/deps/gtk4_macros-551208d9fd7ce827.d: /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk4-macros-0.9.5/src/lib.rs /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk4-macros-0.9.5/src/attribute_parser.rs /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk4-macros-0.9.5/src/composite_template_derive.rs /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk4-macros-0.9.5/src/template_callbacks_attribute.rs /var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk4-macros-0.9.5/src/util.rs
-
-/var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk4-macros-0.9.5/src/lib.rs:
-/var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk4-macros-0.9.5/src/attribute_parser.rs:
-/var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk4-macros-0.9.5/src/composite_template_derive.rs:
-/var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk4-macros-0.9.5/src/template_callbacks_attribute.rs:
-/var/home/faeizmahrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gtk4-macros-0.9.5/src/util.rs:
